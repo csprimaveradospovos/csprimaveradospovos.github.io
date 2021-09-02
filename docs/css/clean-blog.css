@@ -35,7 +35,7 @@ a {
 }
 
 a:focus, a:hover {
-  color: #0085A1;
+  color: #d42635;
 }
 
 blockquote {
@@ -62,13 +62,13 @@ blockquote {
 
 ::-moz-selection {
   color: #fff;
-  background: #0085A1;
+  background: #d42635;
   text-shadow: none;
 }
 
 ::selection {
   color: #fff;
-  background: #0085A1;
+  background: #d42635;
   text-shadow: none;
 }
 
@@ -155,13 +155,13 @@ img::-moz-selection {
     color: #212529;
   }
   #mainNav.is-fixed .navbar-brand:focus, #mainNav.is-fixed .navbar-brand:hover {
-    color: #0085A1;
+    color: #d42635;
   }
   #mainNav.is-fixed .navbar-nav > li.nav-item > a {
     color: #212529;
   }
   #mainNav.is-fixed .navbar-nav > li.nav-item > a:focus, #mainNav.is-fixed .navbar-nav > li.nav-item > a:hover {
-    color: #0085A1;
+    color: #d42635;
   }
   #mainNav.is-visible {
     /* if the user changes the scrolling direction, we show the header */
@@ -274,7 +274,7 @@ header.masthead .post-heading .meta a {
 
 .post-preview > a:focus, .post-preview > a:hover {
   text-decoration: none;
-  color: #0085A1;
+  color: #d42635;
 }
 
 .post-preview > a > .post-title {
@@ -302,7 +302,7 @@ header.masthead .post-heading .meta a {
 
 .post-preview > .post-meta > a:focus, .post-preview > .post-meta > a:hover {
   text-decoration: underline;
-  color: #0085A1;
+  color: #d42635;
 }
 
 @media only screen and (min-width: 768px) {
@@ -361,7 +361,7 @@ header.masthead .post-heading .meta a {
 }
 
 .floating-label-form-group-with-focus label {
-  color: #0085A1;
+  color: #d42635;
 }
 
 form .form-group:first-child .floating-label-form-group {
@@ -394,8 +394,8 @@ footer .copyright {
 }
 
 .btn-primary {
-  background-color: #0085A1;
-  border-color: #0085A1;
+  background-color: #d42635;
+  border-color: #d42635;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
